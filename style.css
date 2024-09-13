@@ -12,4 +12,26 @@ ul, ol, li{
     list-style: nome;
 }
 
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    height: 200px;
+    background-color: brown;
+}
+
+main{
+    flex-grow: 1;
+    background-color: lightpink
+}
+
+footer{
+    height: 100px;
+    background-color: bisque;
+}
+
 /* FIM DO RESET */
