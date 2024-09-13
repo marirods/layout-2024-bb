@@ -9,7 +9,7 @@ a{
     color: inherit;
 }
 ul, ol, li{
-    list-style: nome;
+    list-style: none;
 }
 
 
@@ -34,13 +34,20 @@ header{
 .menu ul{
     display: flex;
     gap: 32px;
-    background-color: lightgray;
+    font-size: 32px;
 }
 main{
     flex-grow: 1;
-    background-color: lightpink
+    display: flex;
 }
-
+.conteudo{
+    width: 50%;
+    background-color: tomato;
+}
+.destaque{
+    width: 50%;
+    background-color: lightgrey;
+}
 footer{
     height: 100px;
     background-color: bisque;
