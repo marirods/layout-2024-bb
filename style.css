@@ -48,7 +48,6 @@ main{
 }
 .conteudo h1{
     font-size: 96px;
-
 }
 .conteudo p{
     font-size: 40px;
@@ -78,7 +77,10 @@ main{
 }
 footer{
     height: 100px;
-    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightgrey;
 }
 
 /* FIM DO RESET */
