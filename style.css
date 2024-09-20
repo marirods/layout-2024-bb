@@ -78,7 +78,7 @@ main{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #276a0d;
+    
 }
 
 .destaque{
@@ -87,8 +87,28 @@ main{
     background-position: right ;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(./pngwing.com.png)
+    background-image: url(./img/pngwing.com.png)
     
+}
+
+.x{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.avif)
+}
+
+.insta{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/insta.jpeg)
+}
+
+.titok{
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/images.png)
+
 }
 footer{
     height: 100px;
