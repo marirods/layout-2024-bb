@@ -18,6 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     padding-inline: 80px;
+    background-color: #000000;
 }
 
 header{
@@ -29,12 +30,18 @@ header{
 .logo{
     height: 80px;
     width: 80px;
-    background-color: lightgray;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Monster-Energy-logo-01.png);
 }
+
+
 .menu ul{
     display: flex;
     gap: 32px;
     font-size: 32px;
+    color: aliceblue;
 }
 main{
     flex-grow: 1;
@@ -45,9 +52,11 @@ main{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    color: aliceblue;
 }
 .conteudo h1{
     font-size: 96px;
+    color: aliceblue;
 }
 .conteudo p{
     font-size: 40px;
@@ -56,7 +65,7 @@ main{
 .conteudo button{
     height: 80px;
     width: 300px;
-    background-color: black;
+    background-color: #276a0d;
     color:  white;
     font-size: 32px;
 }
@@ -69,18 +78,24 @@ main{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: lightgrey;
+    background-color: #276a0d;
 }
+
 .destaque{
+    height: 80%;
     width: 50%;
-    background-color: lightgrey;
+    background-position: right ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./pngwing.com.png)
+    
 }
 footer{
     height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: lightgrey;
+    color: rgb(255, 255, 255);
 }
 
 /* FIM DO RESET */
