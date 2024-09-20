@@ -1,10 +1,10 @@
 # Landing page - Festival de Bebidas no Starbucks
 
-![](./SBX20211029_CaramelMacchiato.avif)
+![](./pngwing.com.png)
 
 ---
 ## Sobre
-Site do tipo landing page para divulgar os sabores de bebidas quentes e geladas para a empresa Starbucks! O objetivo desse projeto é colocar em prática as mudanças de posicionamento e usar o github.
+Site do tipo landing page para divulgar o mais novo sabor do energético de Taurina e Cafeína para a empresa Monster! O objetivo desse projeto é colocar em prática as mudanças de posicionamento e usar o github.
 
 
 
