@@ -20,5 +20,5 @@ Site do tipo landing page para divulgar o mais novo sabor do energético de Taur
 ---
 
 ## Autor
--[Mariane Rodrigues] (https://www.linkedin.com/in/mariane-rodrigues)
+-[Mariane Rodrigues] (www.linkedin.com/in/rodrigues-mariane)
 
