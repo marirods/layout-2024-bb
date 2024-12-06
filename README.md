@@ -1,4 +1,4 @@
-# Landing page - Festival de Bebidas no Starbucks
+# Landing page - Festival de Bebidas Monster
 
 ![](./img/Captura%20de%20Tela%202024-09-20%20às%2015.27.11.png)
 
